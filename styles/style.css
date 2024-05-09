@@ -227,7 +227,7 @@ ol {
 
 .content__list-item {
   width: 398px;
-  max-height: 107px;
+  min-height: 107px;
 }
 
 .content__card-link {
